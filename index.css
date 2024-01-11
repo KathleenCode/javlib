@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #739072;
+}
+
+header h1 {
+    font-style: italic;
+    font-size: 3rem;
+    color: #163020;
+}
+
+header form {
+    background-color: #527853;
+    border-radius: 3px;
+    padding: .7rem;
+}
+
+header form input {
+    border: 1px dotted #304D30;
+    background-color: #AFC8AD;
+    border-radius: 3px;
+    outline-color: #EE7214;
+    padding: .5rem;
+}
+
+header button {
+    border: 1px dashed #65B741;
+    background-color: #C1F2B0;
+    padding: .3rem;
+    color: #EE7214;
+    cursor: pointer;
+}
+
+.div p {
+    margin: 1rem;
+    color: #191919;
+    border-bottom: 3px solid #BED754;
+    font-size: 2rem;
+}
+
+.hii {
+    background-color: #C5E898;
+    border-radius: 5px;
+    padding: .5rem;
+    margin: 1rem;
+}
+
+.hii label {
+    color: #E3651D;
+}
+
+ul {
+    border: 1px solid #B99470;
+    border-radius: .5rem;
+    background-color: #C7DCA7;
+}
+
+li {
+    background-color: #A6CF98;
+    border: 1px dotted #EEF296;
+    padding: 2.5rem;
+}
+
+.btitle {
+    margin-right: 3rem;
+    color: #0C356A;
+}
+
+.del {
+    background-color: #FEFAE0;
+    border: 3px solid #DF826C;
+    border-radius: .1rem;
+    padding: .3rem;
+    color: #FFB000;
+    cursor: pointer;
+}
+
+#for {
+    margin: 1rem;
+}
+
+#for input {
+    background-color: #C8E4B2;
+    padding: .5rem;
+    border: 3px solid #FFBFBF;
+    outline-color: #FFCF96;
+    color: #8C3333;
+    border-radius: 5px;
+}
+
+#for button {
+    background-color: #AAC8A7;
+    border: 4px solid #1A5D1A;
+    border-radius: 3px;
+    padding: .5rem;
+    color: #4C4B16;
+    cursor: pointer;
+}
